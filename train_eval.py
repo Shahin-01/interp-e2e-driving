@@ -19,7 +19,7 @@ import time
 import collections
 
 import gym
-import gym_carla
+import gym-carla
 
 from tf_agents.agents.ddpg import critic_network
 from tf_agents.agents.dqn import dqn_agent
